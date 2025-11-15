@@ -4,7 +4,7 @@
 This repository presents an **end-to-end machine learning solution** for detecting fraudulent credit card transactions. The project demonstrates applied skills in **data preprocessing, handling class imbalance, feature engineering, model development, evaluation, and deployment**. It leverages industry-standard tools and best practices, highlighting reproducibility and practical ML expertise.
 
 ---
-📖 References
+## 📖 References
 Kaggle Credit Card Fraud Dataset
 
 Python Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, streamlit
@@ -29,7 +29,7 @@ Python Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, str
 
 ## ⚡ Quick Start
 
-### 1. Install Dependencies
+1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 2. Train Models
@@ -38,14 +38,15 @@ run the jupyter source file
 bash
 Copy code
 streamlit run app/credit_streamlit.py
-📊 Model Performance
+
+## 📊 Model Performance
 Achieves high precision and recall, minimizing false negatives and false positives
 
 Evaluated using AUC-ROC, F1-score, and confusion matrices
 
 Optimized for imbalanced datasets, reflecting real-world transaction distributions
 
-🎯 Objective
+## 🎯 Objective
 Develop a robust, reproducible, and deployable credit card fraud detection system while demonstrating:
 
 Applied machine learning expertise
