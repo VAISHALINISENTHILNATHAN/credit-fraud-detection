@@ -30,7 +30,7 @@ Python Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, str
 ## ⚡ Quick Start
 
 1. Install Dependencies
-```bash
+bash
 pip install -r requirements.txt
 2. Train Models
 run the jupyter source file
