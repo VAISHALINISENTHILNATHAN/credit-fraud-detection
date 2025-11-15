@@ -21,7 +21,7 @@ st.set_page_config(page_title="Credit Card Fraud Detection", layout="wide")
 st.title("💳 Credit Card Fraud Detection")
 
 # -----------------
-# 1️⃣ Top Features Only for User Input
+# 1️⃣ Top Features Only for User Input.
 # -----------------
 top_features = ['V14', 'V17', 'Amount_scaled', 'V12', 'V10']
 user_input = {}
